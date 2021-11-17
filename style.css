@@ -10,12 +10,12 @@ body{
    /* Add a black background color to the top navigation */
 }
 .topnav {
+  display: inline-block;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -23,6 +23,8 @@ body{
   text-decoration: none;
   font-size: 17px;
   min-width: 350px;
+  position: top;
+  float: inline-start;
   
 }
 
@@ -37,7 +39,41 @@ body{
   background-color: #800080;
   color: white;
 }
+.topnav2 {
+  display: inline-block;
+  overflow: hidden;
+}
 
+/* Style the links inside the navigation bar */
+.topnav2 a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  min-width: 350px;
+  float:left;
+  
+  
+}
+
+/* Change the color of links on hover */
+.topnav2 a:hover {
+  background-color: 	#0000ff;
+  color: whitesmoke;
+}
+
+/* Add an active class to highlight the current page */
+.topnav2 a.active {
+  background-color: #800080;
+  color: white;
+}
+.navbar-nav>li {             
+  float: none;
+  text-align: center;
+  display:inline-block;
+}
 h1 { 
   color: white;
   text-align: center;
