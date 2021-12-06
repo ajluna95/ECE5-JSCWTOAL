@@ -1,7 +1,7 @@
 body{
   min-height: 100%;
-  background-image: url("https://i.redd.it/095f2p0jqpm71.jpg"); /*Seeting the background image. Ypu can change this by changing the link!*/ 
-  background-size: auto cover;
+  background-image: url('https://i.redd.it/afrubqrj1rm71.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
+  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: local;
