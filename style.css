@@ -1,10 +1,11 @@
 body{
+  min-height: 100%;
   background-image: url("https://i.redd.it/095f2p0jqpm71.jpg"); /*Seeting the background image. Ypu can change this by changing the link!*/ 
   background-size: auto cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: local;
-  margin: 100rem; /* see referance for how padding and margins apply */
+  margin: 0rem; /* see referance for how padding and margins apply */
   
   font-family: Saira Condensed, sans-serif; /*You can change the font here*/
    /* Add a black background color to the top navigation */
