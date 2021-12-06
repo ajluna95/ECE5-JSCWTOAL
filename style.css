@@ -1,5 +1,4 @@
 body{
-  min-height: 100%;
   background-image: url('background.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
   background-size: cover;
   background-position: center;
@@ -7,11 +6,7 @@ body{
   background-attachment: fixed;
   margin: 0rem; /* see referance for how padding and margins apply */
 }
- .main{
-background:rgb(27,48,47,0.4);
 
- }
-}
 .topnav {
   display: inline-block;
   overflow: hidden;
