@@ -4,7 +4,7 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin: 0rem; /* see referance for how padding and margins apply */
+  margin: auto; /* see referance for how padding and margins apply */
 }
 
 .topnav {
