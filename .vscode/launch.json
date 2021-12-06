@@ -5,14 +5,16 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [],
+      "args": [
+        ""
+      ],
       "stopAtEntry": false,
-      "cwd": "c:\\Users\\School\\Documents\\Fall_2021\\ECE_5\\Labs\\Lab4\\Website\\ECE5-JSCWTOAL",
+      "cwd": "c:/Users/School/Documents/Fall_2021/ECE_5/Labs/Lab4/Website/ECE5-JSCWTOAL",
       "environment": [],
-      "program": "c:\\Users\\School\\Documents\\Fall_2021\\ECE_5\\Labs\\Lab4\\Website\\ECE5-JSCWTOAL\\build\\Debug\\outDebug",
+      "program": "c:/Users/School/Documents/Fall_2021/ECE_5/Labs/Lab4/Website/ECE5-JSCWTOAL/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "externalConsole": false,
       "setupCommands": [
         {
