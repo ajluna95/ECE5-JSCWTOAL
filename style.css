@@ -6,8 +6,11 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   margin: 0rem; /* see referance for how padding and margins apply */
-  
- 
+}
+ .main{
+background:rgb(27,48,47,0.4);
+
+ }
 }
 .topnav {
   display: inline-block;
