@@ -26,7 +26,7 @@ body{
   font-size: 17px;
   min-width: 350px;
   position: top;
-  float: inline-start;
+  float: center;
   
 }
 
@@ -55,7 +55,8 @@ body{
   text-decoration: none;
   font-size: 17px;
   min-width: 350px;
-  float:left;
+  position: top;
+  float:center;
   
   
 }
