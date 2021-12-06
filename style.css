@@ -1,9 +1,9 @@
 body{
   background-image: url("https://i.redd.it/095f2p0jqpm71.jpg"); /*Seeting the background image. Ypu can change this by changing the link!*/ 
-  background-size: cover;
-  background-position: center;
+  background-size: auto cover;
+  background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: local;
   margin: 0rem; /* see referance for how padding and margins apply */
   
   font-family: Saira Condensed, sans-serif; /*You can change the font here*/
