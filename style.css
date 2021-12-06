@@ -1,10 +1,10 @@
 body{
   min-height: 100%;
-  background-image: url('https://i.redd.it/afrubqrj1rm71.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
+  background-image: url('background.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: local;
+  background-attachment: fixed;
   margin: 0rem; /* see referance for how padding and margins apply */
   
   font-family: Saira Condensed, sans-serif; /*You can change the font here*/
