@@ -7,8 +7,7 @@ body{
   background-attachment: fixed;
   margin: 0rem; /* see referance for how padding and margins apply */
   
-  font-family: Saira Condensed, sans-serif; /*You can change the font here*/
-   /* Add a black background color to the top navigation */
+ 
 }
 .topnav {
   display: inline-block;
