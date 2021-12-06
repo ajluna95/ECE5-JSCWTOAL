@@ -4,7 +4,11 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin: auto; /* see referance for how padding and margins apply */
+  margin: 0rem; 
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;/* see referance for how padding and margins apply */
 }
 
 .topnav {
